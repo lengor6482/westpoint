@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/westpoint/static/css/main.f855e6bc.css",
+    "main.js": "/westpoint/static/js/main.d76d6153.js",
+    "static/js/453.ae514b7f.chunk.js": "/westpoint/static/js/453.ae514b7f.chunk.js",
+    "static/media/logo.svg": "/westpoint/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/westpoint/index.html",
+    "main.f855e6bc.css.map": "/westpoint/static/css/main.f855e6bc.css.map",
+    "main.d76d6153.js.map": "/westpoint/static/js/main.d76d6153.js.map",
+    "453.ae514b7f.chunk.js.map": "/westpoint/static/js/453.ae514b7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d76d6153.js"
+  ]
+}
